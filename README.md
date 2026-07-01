@@ -2,4 +2,3 @@
  
 <div align="center"> 
 <sub>[**rentry**](https://rentry.co/zoluu)  [**ata**](https://sugucurse.atabook.org/)
-<div align="center">
